@@ -1,6 +1,7 @@
 from textblob import TextBlob
 
 def analyze_sentiment(text):
+
     sentiment = TextBlob(text).sentiment.polarity
 
     if sentiment > 0.2:
@@ -9,5 +10,3 @@ def analyze_sentiment(text):
         return "Bearish"
     else:
         return "Neutral"
-        
-
