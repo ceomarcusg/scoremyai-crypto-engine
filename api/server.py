@@ -17,3 +17,5 @@ def score_crypto(coin: str):
         "price": data["price"],
         "scoremyai_rating": score
     }
+    
+
