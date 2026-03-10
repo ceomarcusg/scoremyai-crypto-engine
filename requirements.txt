@@ -5,5 +5,3 @@ scikit-learn
 fastapi
 uvicorn
 textblob
-
-
