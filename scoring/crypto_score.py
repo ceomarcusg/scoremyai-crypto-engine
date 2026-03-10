@@ -11,8 +11,6 @@ def calculate_crypto_score(data):
     if data["github_repos"] > 100:
         score += 20
 
-    score += 30  # baseline network strength
+    score += 30
 
     return min(score, 100)
-    
-
