@@ -1,20 +1,43 @@
 # ScoreMyAI Crypto Intelligence Engine
 
-The ScoreMyAI Crypto Engine is an AI-powered system designed to evaluate cryptocurrency assets using intelligent scoring algorithms.
+AI-Powered Crypto Scoring + Market Intelligence
 
-This project analyzes market data, developer activity, sentiment, and blockchain signals to generate a ScoreMyAI rating.
+The ScoreMyAI Crypto Engine evaluates cryptocurrency assets using AI-powered analytics.
 
-Features:
+Signals analyzed:
 
-• AI-driven crypto scoring
-• Sentiment analysis
-• Market intelligence
-• Developer activity monitoring
-• REST API integration
-• Built for Web3 analytics
+- Market Data
+- Social Sentiment
+- Developer Activity
+- Blockchain Metrics
+- Volatility Risk
+- AI Prediction Models
 
-Vision:
+Example Output:
 
-ScoreMyAI will become the AI intelligence layer for digital assets, helping investors and institutions evaluate blockchain ecosystems with advanced analytics.
+Bitcoin (BTC)
 
-Developed by MDOT Global
+ScoreMyAI Rating: 92  
+Sentiment: Bullish  
+Network Strength: High  
+Developer Activity: Strong  
+Risk Index: Low  
+AI Market Outlook: Positive
+
+Architecture:
+
+1. Data Collector
+2. AI Sentiment Analyzer
+3. Blockchain Metrics Scanner
+4. Crypto Scoring Algorithm
+5. API Output Layer
+6. Dashboard / Web Interface
+
+Data Sources:
+
+- CoinGecko API
+- Crypto Twitter Sentiment
+- GitHub Developer Activity
+- Blockchain Transaction Data
+
+Run Server:
