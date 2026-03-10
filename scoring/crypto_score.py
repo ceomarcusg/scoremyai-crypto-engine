@@ -14,3 +14,5 @@ def calculate_crypto_score(data):
     score += 30  # baseline network strength
 
     return min(score, 100)
+    
+
